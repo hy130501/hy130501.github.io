@@ -1,4 +1,3 @@
- <script type="text/javascript">
 var crashSwitched = false;
 var originalTitle = document.title;
 var titleTime;
@@ -19,5 +18,5 @@ document.addEventListener('visibilitychange', function () {
     }
   }
 });
-</script>
+
 

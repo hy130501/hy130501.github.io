@@ -1,137 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>数学分析 第二章 数列极限</title>
-    <url>/2020/04/18/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%95%B0%E5%88%97%E6%9E%81%E9%99%90/</url>
-    <content><![CDATA[]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>数学分析 第二章 数列极限</title>
+      <link href="/2020/04/18/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%95%B0%E5%88%97%E6%9E%81%E9%99%90/"/>
+      <url>/2020/04/18/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%95%B0%E5%88%97%E6%9E%81%E9%99%90/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
       <categories>
-        <category>数学分析</category>
+          
+          <category> 数学分析 </category>
+          
       </categories>
-      <tags>
-        <tag>数学分析</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数学分析 第一章 集合与映射</title>
-    <url>/2020/04/18/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E6%98%A0%E5%B0%84/</url>
-    <content><![CDATA[<p>今天开始准备把数学分析、高等代数好好整理整理。数分用的是复旦大学陈纪修老师的《数学分析》高等教育出版社第三版。</p>
-<p>希望自己能坚持下去，明天考研上岸。</p>
-<a id="more"></a>
-
-<h1 id="第一章-集合与映射"><a href="#第一章-集合与映射" class="headerlink" title="第一章 集合与映射"></a>第一章 集合与映射</h1><h2 id="§1-集合"><a href="#§1-集合" class="headerlink" title="§1 集合"></a>§1 集合</h2><h3 id="集合"><a href="#集合" class="headerlink" title="集合"></a>集合</h3><ul>
-<li>集合、元素</li>
-<li>表示集合的方法：描述法、枚举法</li>
-<li>空集、子集、真子集</li>
-<li>开区间、闭区间、半开半闭区间</li>
-</ul>
-<h3 id="集合运算"><a href="#集合运算" class="headerlink" title="集合运算"></a>集合运算</h3><ul>
-<li>集合的基本运算：并、交、差、补</li>
-<li>性质：<ol>
-<li>交换律</li>
-<li>结合律</li>
-<li>分配律</li>
-<li>对偶律（De Morgan公式）</li>
-</ol>
-</li>
-</ul>
-<h3 id="有限集与无限集"><a href="#有限集与无限集" class="headerlink" title="有限集与无限集"></a>有限集与无限集</h3><ul>
-<li>有限集、无限集、可列集</li>
-<li><u><strong>定理1.1.1</strong>  <strong>可列个可列集之并也是可列集</strong></u></li>
-<li><strong><u>定理1.1.2 有理数集Q是可列集</u></strong></li>
-</ul>
-<h3 id="Descartes乘积集合"><a href="#Descartes乘积集合" class="headerlink" title="Descartes乘积集合"></a>Descartes乘积集合</h3><ul>
-<li>Descartes乘积集合</li>
-</ul>
-<h2 id="§2-映射与函数"><a href="#§2-映射与函数" class="headerlink" title="§2 映射与函数"></a>§2 映射与函数</h2><h3 id="映射"><a href="#映射" class="headerlink" title="映射"></a>映射</h3><ul>
-<li><p>映射、像、逆像、定义域、值域</p>
-</li>
-<li><p>映射三要素</p>
-<p>注：</p>
-<ol>
-<li>映射要求元素的像必须是唯一的</li>
-<li>映射并不要求逆像也具有唯一性</li>
-</ol>
-</li>
-<li><p>单射、满射、双射（一一对应）</p>
-</li>
-<li><p>逆映射、复合映射</p>
-</li>
-</ul>
-<h3 id="一元实函数"><a href="#一元实函数" class="headerlink" title="一元实函数"></a>一元实函数</h3><ul>
-<li>自变量、因变量、函数关系</li>
-</ul>
-<h3 id="初等函数"><a href="#初等函数" class="headerlink" title="初等函数"></a>初等函数</h3><ul>
-<li>基本初等函数（6种）：常数函数、幂函数、指数函数、对数函数、三角函数、反三角函数</li>
-<li>自然定义域</li>
-</ul>
-<h3 id="函数的分段表示、隐式表示与参数表示"><a href="#函数的分段表示、隐式表示与参数表示" class="headerlink" title="函数的分段表示、隐式表示与参数表示"></a>函数的分段表示、隐式表示与参数表示</h3><ul>
-<li>分段表示：符号函数</li>
-<li>隐式表示：Kepler方程</li>
-<li>参数表示：旋轮线（摆线）</li>
-</ul>
-<h3 id="函数的简单特性"><a href="#函数的简单特性" class="headerlink" title="函数的简单特性"></a>函数的简单特性</h3><ol>
-<li><p>有界性：有界（两种定义）、上界、下界 </p>
-</li>
-<li><p>单调性：（严格）单调增加、（严格）单调减少</p>
-</li>
-<li><p>奇偶性：偶函数、奇函数</p>
-</li>
-<li><p>周期性：周期函数、周期、最小周期</p>
-<p>注：Dirichlet函数不存在最小周期</p>
-</li>
-</ol>
-<h3 id="两个常用不等式"><a href="#两个常用不等式" class="headerlink" title="两个常用不等式"></a>两个常用不等式</h3><ul>
-<li><p><strong><u>定理1.2.1（三角不等式）</u></strong></p>
-<p><img src="https://raw.githubusercontent.com/hy130501/typora-picgo/master/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E9%99%88%E7%BA%AA%E4%BF%AE/%E5%AE%9A%E7%90%861.2.1.png" alt="定理1.2.1"></p>
-</li>
-<li><p>算术平均值、几何平均值、调和平均值</p>
-</li>
-<li><p><strong><u>定理1.2.2（平均值不等式）</u></strong></p>
-<p><img src="https://raw.githubusercontent.com/hy130501/typora-picgo/master/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E9%99%88%E7%BA%AA%E4%BF%AE/%E5%AE%9A%E7%90%861.2.2.png" alt="定理1.2.2"></p>
-</li>
-</ul>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 数学分析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数学分析 第一章 集合与映射</title>
+      <link href="/2020/04/18/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E6%98%A0%E5%B0%84/"/>
+      <url>/2020/04/18/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E6%98%A0%E5%B0%84/</url>
+      
+        <content type="html"><![CDATA[<p>今天开始准备把数学分析、高等代数好好整理整理。数分用的是复旦大学陈纪修老师的《数学分析》高等教育出版社第三版。</p><p>希望自己能坚持下去，明天考研上岸。</p><a id="more"></a><h1 id="第一章-集合与映射"><a href="#第一章-集合与映射" class="headerlink" title="第一章 集合与映射"></a>第一章 集合与映射</h1><h2 id="§1-集合"><a href="#§1-集合" class="headerlink" title="§1 集合"></a>§1 集合</h2><h3 id="集合"><a href="#集合" class="headerlink" title="集合"></a>集合</h3><ul><li>集合、元素</li><li>表示集合的方法：描述法、枚举法</li><li>空集、子集、真子集</li><li>开区间、闭区间、半开半闭区间</li></ul><h3 id="集合运算"><a href="#集合运算" class="headerlink" title="集合运算"></a>集合运算</h3><ul><li>集合的基本运算：并、交、差、补</li><li>性质：<ol><li>交换律</li><li>结合律</li><li>分配律</li><li>对偶律（De Morgan公式）</li></ol></li></ul><h3 id="有限集与无限集"><a href="#有限集与无限集" class="headerlink" title="有限集与无限集"></a>有限集与无限集</h3><ul><li>有限集、无限集、可列集</li><li><u><strong>定理1.1.1</strong>  <strong>可列个可列集之并也是可列集</strong></u></li><li><strong><u>定理1.1.2 有理数集Q是可列集</u></strong></li></ul><h3 id="Descartes乘积集合"><a href="#Descartes乘积集合" class="headerlink" title="Descartes乘积集合"></a>Descartes乘积集合</h3><ul><li>Descartes乘积集合</li></ul><h2 id="§2-映射与函数"><a href="#§2-映射与函数" class="headerlink" title="§2 映射与函数"></a>§2 映射与函数</h2><h3 id="映射"><a href="#映射" class="headerlink" title="映射"></a>映射</h3><ul><li><p>映射、像、逆像、定义域、值域</p></li><li><p>映射三要素</p><p>注：</p><ol><li>映射要求元素的像必须是唯一的</li><li>映射并不要求逆像也具有唯一性</li></ol></li><li><p>单射、满射、双射（一一对应）</p></li><li><p>逆映射、复合映射</p></li></ul><h3 id="一元实函数"><a href="#一元实函数" class="headerlink" title="一元实函数"></a>一元实函数</h3><ul><li>自变量、因变量、函数关系</li></ul><h3 id="初等函数"><a href="#初等函数" class="headerlink" title="初等函数"></a>初等函数</h3><ul><li>基本初等函数（6种）：常数函数、幂函数、指数函数、对数函数、三角函数、反三角函数</li><li>自然定义域</li></ul><h3 id="函数的分段表示、隐式表示与参数表示"><a href="#函数的分段表示、隐式表示与参数表示" class="headerlink" title="函数的分段表示、隐式表示与参数表示"></a>函数的分段表示、隐式表示与参数表示</h3><ul><li>分段表示：符号函数</li><li>隐式表示：Kepler方程</li><li>参数表示：旋轮线（摆线）</li></ul><h3 id="函数的简单特性"><a href="#函数的简单特性" class="headerlink" title="函数的简单特性"></a>函数的简单特性</h3><ol><li><p>有界性：有界（两种定义）、上界、下界 </p></li><li><p>单调性：（严格）单调增加、（严格）单调减少</p></li><li><p>奇偶性：偶函数、奇函数</p></li><li><p>周期性：周期函数、周期、最小周期</p><p>注：Dirichlet函数不存在最小周期</p></li></ol><h3 id="两个常用不等式"><a href="#两个常用不等式" class="headerlink" title="两个常用不等式"></a>两个常用不等式</h3><ul><li><p><strong><u>定理1.2.1（三角不等式）</u></strong></p><p><img src="https://raw.githubusercontent.com/hy130501/typora-picgo/master/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E9%99%88%E7%BA%AA%E4%BF%AE/%E5%AE%9A%E7%90%861.2.1.png" alt="定理1.2.1"></p></li><li><p>算术平均值、几何平均值、调和平均值</p></li><li><p><strong><u>定理1.2.2（平均值不等式）</u></strong></p><p><img src="https://raw.githubusercontent.com/hy130501/typora-picgo/master/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E9%99%88%E7%BA%AA%E4%BF%AE/%E5%AE%9A%E7%90%861.2.2.png" alt="定理1.2.2"></p></li></ul>]]></content>
+      
+      
       <categories>
-        <category>数学分析</category>
+          
+          <category> 数学分析 </category>
+          
       </categories>
-      <tags>
-        <tag>数学分析</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>测试</title>
-    <url>/2020/03/21/%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p>如题。</p>
-<a id="more"></a>
-
-<p>本文用来对Hexo博客搭建进行测试。</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 数学分析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试</title>
+      <link href="/2020/03/21/%E6%B5%8B%E8%AF%95/"/>
+      <url>/2020/03/21/%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<p>如题。</p><a id="more"></a><p>本文用来对Hexo博客搭建进行测试。</p>]]></content>
+      
+      
       <categories>
-        <category>测试分类</category>
+          
+          <category> 测试分类 </category>
+          
       </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/03/21/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<a id="more"></a>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/03/21/hello-world/"/>
+      <url>/2020/03/21/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
